@@ -1,6 +1,6 @@
 # QUESTIONS
 
-1. You are given an array of heights of pile of boxes. You have to return the number of steps required to bring the height of entire pile to the same height as pile with minimum height. In one step, you can lower the tallest pile only to the next taller pile. You can adjust only one pile in a step even though 2 piles could be of same height. Following examples will illustrate this better,
+1. You are given an array of heights of pile of boxes. You have to return the number of steps required to bring the height of entire pile to the same height as pile with minimum height. In one step, you can lower the tallest pile only to the next taller pile. You can adjust only one pile in a step even though 2 piles could be of same height. Following examples will illustrate this better;
 
 **Example 1**
 
@@ -36,3 +36,5 @@ Step 8 [2, 2, 1, 1, 1]
 Step 9 [2, 1, 1, 1, 1]
 Step 10 [1, 1, 1, 1, 1]
 ```
+
+Question copied from (LeetCode)[https://leetcode.com/discuss/interview-question/390456/Google-or-Phone-Screen-or-Piles-of-Boxes/350904]
