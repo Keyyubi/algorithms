@@ -37,4 +37,4 @@ Step 9 [2, 1, 1, 1, 1]
 Step 10 [1, 1, 1, 1, 1]
 ```
 
-Question copied from (LeetCode)[https://leetcode.com/discuss/interview-question/390456/Google-or-Phone-Screen-or-Piles-of-Boxes/350904]
+Question copied from [LeetCode](https://leetcode.com/discuss/interview-question/390456/Google-or-Phone-Screen-or-Piles-of-Boxes/350904)
